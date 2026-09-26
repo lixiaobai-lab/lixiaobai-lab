@@ -1,17 +1,20 @@
 # Hi, I'm Xiaobai 👋
 
-I build software and enjoy learning by making things.
+I like building things that solve small, real problems.
 
-Most of my work is around **web applications, developer tools, and AI-assisted workflows**.  
-I usually work with **TypeScript / JavaScript, React, Vue, Python, and Node.js**.
+Most of the time I move between **web apps, developer tools, automation, and AI experiments**.  
+My usual stack includes **TypeScript / JavaScript, React, Vue, Python, and Node.js**.
 
-Recently, I've been spending more time on:
+Lately, I've been spending more time on:
 
 - AI agents and LLM-powered applications
-- Developer tooling and workflow automation
-- Data-heavy web applications
-- Turning small ideas into practical products
+- Developer workflows and small productivity tools
+- Data-heavy web interfaces
+- Ideas that are useful enough to turn into real products
 
-I use this GitHub mainly to keep projects, experiments, and things I'm learning.
+This GitHub is less of a portfolio and more of a workshop —  
+some finished projects, some experiments, and plenty of things I'm still figuring out.
 
-> Build, learn, iterate.
+I enjoy learning by building, breaking things, and improving them a little at a time.
+
+> Keep building. Keep learning.
